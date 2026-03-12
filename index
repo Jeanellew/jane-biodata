@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+       <title> Biodata Diri</title>
+       <link rel="stylesheet" href="inline.css">
+       <style>
+       body{display: grid; place-items:center;min-height: 100vh; margin: 0;}
+       .Container-Biodata{border: 2px solid white;padding: 20px;width: 350px;text-align: left;margin-top: 50px;}</style>      
+   </head>
+   <body>
+       <div class="Data-Diri">
+           <p>Nama : Jane Clarissa Yangson</p>
+           <br>
+           <p>Kelas : XII B</p>
+           <br>
+           <p>Tempat Lahir :Bengkulu</p>
+           <br>
+           <p>Alamat : Kedaton</p>
+           <br>
+           <p>Hobi : tidur</p>
+           <br>
+           <p>Makanan Kesukaan : hot pot</p>
+           <br>
+           <p>Motto : hidup cuma sekali malu maluinnya tiap hari</p>
+           <br>
+           <p>Kesan dan Pesan : hebat</p>
+           <br>
+           <p>Email :janeclarissa0201@gmail.com</p>
+           <img src=" foto.jpg" alt=" foto.jpg" width="300" height="500">
+       </div>
+   </body>
+</html>
